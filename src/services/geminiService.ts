@@ -1,10 +1,9 @@
-declare const process: any;
 
 import { GoogleGenAI, Modality } from "@google/genai";
 import type { TryOnInputs, CompositeResult, ImageData } from '../types';
 
 // FIX: Per coding guidelines, API key must be obtained from process.env.API_KEY.
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: "AIzaSyBtttorFtbSCz3kjblYlSgyTfdtkDCID3A" });
 
 const DEFAULT_SCENE_DESCRIPTION = "A white fashion catwalk with 1-2 people visible in the out-of-focus audience.";
 
