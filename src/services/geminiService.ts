@@ -1,4 +1,4 @@
-const process = { env: import.meta.env };
+declare const process: any;
 
 import { GoogleGenAI, Modality } from "@google/genai";
 import type { TryOnInputs, CompositeResult, ImageData } from '../types';
