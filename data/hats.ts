@@ -1105,7 +1105,7 @@ export const hats: Hat[] = [
   },
   {
     "id": 90,
-    "name": "\"Cambridge'' Cream Parisisal Straw Modern Fedora Hat With Gold Horse Bit Embellishment",
+    "name": "\"Cambridge\" Cream Parisisal Straw Modern Fedora Hat With Gold Horse Bit Embellishment",
     "hatSlug": "cambridge-cream-parisisal-straw-modern-fedora-hat-with-gold-horse-bit-embellishment",
     "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/cambridge-cream-parisisal-straw-modern-fedora-hat-with-gold-horse-bit-embellishment",
     "imageUrls": [

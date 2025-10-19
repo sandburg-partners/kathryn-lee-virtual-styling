@@ -1171,4 +1171,176 @@ export const hats: Hat[] = [
     "imageUrls": [
       "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142512-01_2.jpg?v=1626002480",
       "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142512.jpg?v=1626002480",
-      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142535.jpg?v=1626002480",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142557.jpg?v=1626002481"
+    ]
+  },
+  {
+    "id": 96,
+    "name": "Pink Straw Wide Brimmed Hat With Feather Flowers",
+    "hatSlug": "pink-straw-wide-brimmed-hat-with-feather-flowers",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/pink-straw-wide-brimmed-hat-with-feather-flowers",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142337-01-01-02.jpg?v=1626089195",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142145.jpg?v=1626089195",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142150.jpg?v=1626089195",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142205.jpg?v=1626089195"
+    ]
+  },
+  {
+    "id": 97,
+    "name": "Cream Straw Wide Brimmed Hat With Veiling and Feather Quills",
+    "hatSlug": "cream-straw-wide-brimmed-hat-with-veiling-and-feather-quills",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/cream-straw-wide-brimmed-hat-with-veiling-and-feather-quills",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026144515-01.jpg?v=1609940293",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026144535.jpg?v=1609940303",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026144557.jpg?v=1609940323",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026144515.jpg?v=1609940332"
+    ]
+  },
+  {
+    "id": 98,
+    "name": "Shades of Pink Straw Cloche Hat with Horse Brooch",
+    "hatSlug": "shades-of-pink-straw-cloche-hat-with-horse-brooch",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/shades-of-pink-straw-cloche-hat-with-horse-brooch",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026143224-01.jpg?v=1609926377",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026143215.jpg?v=1609926403",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026143224.jpg?v=1609926403",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026143232.jpg?v=1609926403"
+    ]
+  },
+  {
+    "id": 99,
+    "name": "Blue Straw Fascinator with Floating Quill Tufted Veil Netting",
+    "hatSlug": "blue-straw-fascinator-with-floating-quill-tufted-veil-netting",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/blue-straw-fascinator-with-floating-quill-tufted-veil-netting",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142942-01.jpg?v=1609833715",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142948.jpg?v=1609833773",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142958.jpg?v=1609833773",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026143006.jpg?v=1609833773"
+    ]
+  },
+  {
+    "id": 100,
+    "name": "Red Straw Fascinator with Floating Quill & Ladybug Brooches",
+    "hatSlug": "red-straw-fascinator-with-floating-quill-ladybug-brooches",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/red-straw-fascinator-with-floating-quill-ladybug-brooches",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142852-01-01.jpg?v=1609833553",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142803.jpg?v=1609833643",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142813.jpg?v=1609833643",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142838.jpg?v=1609833643"
+    ]
+  },
+  {
+    "id": 101,
+    "name": "Orange Straw Fascinator with Floating Quill & Dragonfly Brooches",
+    "hatSlug": "orange-straw-fascinator-with-floating-quill-dragonfly-brooches",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/orange-straw-fascinator-with-floating-quill-dragonfly-brooches",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026141951-01.jpg?v=1609750284",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026141939.jpg?v=1609750284",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026142016.jpg?v=1609750284",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20201026141959.jpg?v=1609750284"
+    ]
+  },
+  {
+    "id": 102,
+    "name": "\"Emma\" - Rose Gold Metallic Leaf Custom Double Headband",
+    "hatSlug": "rose-gold-custom-double-headband-2100",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/rose-gold-custom-double-headband-2100",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706163315-01.jpg?v=1595140830",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-Racing-Hats-Crowns-Headbands-Turbans-2100-1.jpg?v=1595140830",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-Racing-Hats-Crowns-Headbands-Turbans-2100-2.jpg?v=1595140830",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-Racing-Hats-Crowns-Headbands-Turbans-2100-3.jpg?v=1595140830"
+    ]
+  },
+  {
+    "id": 103,
+    "name": "\"Avena\" Black Latex And Silk Brocade Hand Beaded Halo Crown",
+    "hatSlug": "avena-black-latex-and-silk-brocade-hand-beaded-halo-crown",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/avena-black-latex-and-silk-brocade-hand-beaded-halo-crown",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173839-01.jpg?v=1595140325",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173645-01.jpg?v=1595140325",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173755-01.jpg?v=1595140325",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173824-01.jpg?v=1595140325"
+    ]
+  },
+  {
+    "id": 104,
+    "name": "\"Alexis\" Vintage Lace Pillbox With Leather And Pearl Details",
+    "hatSlug": "alexis-vintage-lace-pillbox-with-leather-and-pearl-details",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/alexis-vintage-lace-pillbox-with-leather-and-pearl-details",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706172540-01.jpg?v=1595140315",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706172551-01.jpg?v=1595140315",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706172603-01.jpg?v=1595140315",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706172612-01.jpg?v=1595140315"
+    ]
+  },
+  {
+    "id": 105,
+    "name": "\"Dita\" Burgundy Red Double Sided Velour Fur Felt Hat",
+    "hatSlug": "dita-burgundy-red-double-sided-velour-fur-felt-hat",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/dita-burgundy-red-double-sided-velour-fur-felt-hat",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706171142-01.jpg?v=1595140302",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706171133-01.jpg?v=1595140302",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706171154-01.jpg?v=1595140302",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706171203-01-01-01.jpg?v=1595140302"
+    ]
+  },
+  {
+    "id": 106,
+    "name": "\"Derby Chain\" Black Latex Headband with Chain Detail Bow",
+    "hatSlug": "derby-chain-black-latex-headband-with-chain-detail-bow",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/derby-chain-black-latex-headband-with-chain-detail-bow",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173341-01.jpg?v=1595140252",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173349-01.jpg?v=1595140252",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173356-01.jpg?v=1595140252",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706173411-01.jpg?v=1595140252"
+    ]
+  },
+  {
+    "id": 107,
+    "name": "\"Foxy\" Cream Straw Mesh Jockey's Cap With Feather, Gold, Pearl & Butterfly Floral Embellishment",
+    "hatSlug": "foxy-cream-straw-mesh-jockeys-cap-with-feather-gold-pearl-butterfly-floral-embellishment",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/foxy-cream-straw-mesh-jockeys-cap-with-feather-gold-pearl-butterfly-floral-embellishment",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706164723-01-02-01.jpg?v=1595140194",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706164626.jpg?v=1595140194",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706164615.jpg?v=1595140194",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/IMG20190706164732.jpg?v=1595140194"
+    ]
+  },
+  {
+    "id": 108,
+    "name": "\"Emma Pearl\" Gold Metallic Leaf & Pearl Double Headband Crown",
+    "hatSlug": "emma-pearl-gold-metallic-leaf-pearl-double-headband-crown",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/emma-pearl-gold-metallic-leaf-pearl-double-headband-crown",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-26.jpg?v=1595139848",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-27.jpg?v=1595139848",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-28.jpg?v=1595139848",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-29.jpg?v=1595139848"
+    ]
+  },
+  {
+    "id": 109,
+    "name": "\"Phoebe\" Gold & Pearl With Ceramic Embellishments Double Headband Crown & Earring Set",
+    "hatSlug": "phoebe-gold-pearl-with-ceramic-embellishments-double-headband-crown",
+    "productUrl": "https://kathrynleemillinery.com/collections/ready-to-wear/products/phoebe-gold-pearl-with-ceramic-embellishments-double-headband-crown",
+    "imageUrls": [
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-11.jpg?v=1595139836",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-12.jpg?v=1595139836",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-14.jpg?v=1595139836",
+      "https://cdn.shopify.com/s/files/1/0433/3784/2847/products/Love-Lee-Boutique-Kathryn-Lee-Headwear-LLB-15.jpg?v=1595139836"
+    ]
+  }
+];
