@@ -1,3 +1,4 @@
+
 import React, { useState, useRef, useEffect } from 'react';
 import type { LoadedHat } from '../types';
 import { ChevronDownIcon } from './icons';
@@ -126,7 +127,7 @@ export const HatSelector: React.FC<HatSelectorProps> = ({ hats, onSelect, select
               className="w-full px-3 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-brand-accent focus:border-brand-accent transition placeholder:text-gray-600"
             />
             {hatSource === 'shopify' && (
-              <div className="flex items-center px-1">
+              <div className="flex items-center justify-start px-1">
                 <input
                   id="in-stock-checkbox"
                   type="checkbox"

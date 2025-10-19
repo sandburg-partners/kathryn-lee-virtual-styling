@@ -3,13 +3,12 @@ import { Header } from './components/Header';
 import { InputForm } from './components/InputForm';
 import { ResultDisplay } from './components/ResultDisplay';
 import { RefineControls } from './components/RefineControls';
-import { generateComposite, refineComposite } from '../services/geminiService';
-// FIX: Corrected import path for shopifyService.
+import { generateComposite, refineComposite } from './services/geminiService';
 import { fetchShopifyHats } from './services/shopifyService';
 import type { TryOnInputs, CompositeResult, ImageData, LoadedHat, Hat } from './types';
 import { DEFAULT_NEGATIVE_PROMPT } from './constants';
 import { hats as localHats } from './data/hats';
-import { generateFilename, compressImage, urlToImageData, applyWatermark, createReferenceSheet, processOptionalImage } from '../utils/imageUtils';
+import { generateFilename, compressImage, urlToImageData, applyWatermark, createReferenceSheet, processOptionalImage } from './utils/imageUtils';
 
 const INITIAL_INPUTS: TryOnInputs = {
   selectedHat: null,
@@ -493,7 +492,7 @@ function App() {
   }, [shuffledHats, showInStockOnly, hatSource]);
 
   return (
-    <div className="bg-brand-background min-h-screen font-sans text-gray-800">
+    <div className="bg-brand-secondary min-h-screen font-sans text-gray-800">
       <Header />
       <main className="w-full p-2.5">
         <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-2 lg:gap-12">
