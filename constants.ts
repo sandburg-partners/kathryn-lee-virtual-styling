@@ -1,0 +1,1 @@
+export const DEFAULT_NEGATIVE_PROMPT: string = "cropping, cropped hat, cropped feet, extra limbs, extra fingers, fused fingers, warped logos, incorrect text, mirrored text, watermarks, compression artifacts, plastic skin, over-smooth skin, blown highlights, muddy shadows, floating hats, floating shoes, clipping, blurry, low resolution, ugly, deformed";

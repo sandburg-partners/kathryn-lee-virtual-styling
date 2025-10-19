@@ -1,0 +1,7 @@
+{
+  "name": "Kathryn Lee Millinery Virtual Styling",
+  "description": "An AI-powered virtual styling experience. Upload a photo of yourself and select a hat from our collection to see a photorealistic composite of you wearing it on a fashion catwalk. Or choose your own outfit, accessories, and set the scene.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

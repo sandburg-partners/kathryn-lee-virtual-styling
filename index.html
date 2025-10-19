@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="https://cdn.shopify.com/s/files/1/0433/3784/2847/files/Kathryn_Lee_Millinery_Image_Transparent_152x152.png?v=1614292425" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+    <title>Kathryn Lee Millinery | Virtual Styling</title>
+
+    <!-- Social Meta Tags -->
+    <meta name="description" content="An AI-powered virtual styling experience. Create a photorealistic composite of you wearing a beautiful hat from the Kathryn Lee Millinery collection." />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:url" content="https://kathryn-lee-millinery-virtual-styling-56858392501.us-west1.run.app/" />
+    <meta property="og:title" content="Kathryn Lee Millinery | Virtual Styling" />
+    <meta property="og:description" content="An AI-powered virtual styling experience. Create a photorealistic composite of you wearing a beautiful hat from the Kathryn Lee Millinery collection." />
+    <meta property="og:image" content="https://cdn.shopify.com/s/files/1/0433/3784/2847/files/Kathryn_Lee_Millinery_Image_Transparent_152x152.png?v=1614292425" />
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary" />
+    <meta property="twitter:url" content="https://kathryn-lee-millinery-virtual-styling-56858392501.us-west1.run.app/" />
+    <meta property="twitter:title" content="Kathryn Lee Millinery | Virtual Styling" />
+    <meta property="twitter:description" content="An AI-powered virtual styling experience. Create a photorealistic composite of you wearing a beautiful hat from the Kathryn Lee Millinery collection." />
+    <meta property="twitter:image" content="https://cdn.shopify.com/s/files/1/0433/3784/2847/files/Kathryn_Lee_Millinery_Image_Transparent_152x152.png?v=1614292425" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+<style>
+  body {
+    background-image: url("data:image/svg+xml,%3Csvg width='6' height='6' viewBox='0 0 6 6' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23B59677' fill-opacity='0.08' fill-rule='evenodd'%3E%3Cpath d='M5 0h1L0 6V5zM6 5v1H5z'/%3E%3C/g%3E%3C/svg%3E");
+  }
+</style>
+<script type="importmap">
+{
+  "imports": {
+    "vite": "https://aistudiocdn.com/vite@^7.1.10",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.0.4",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "react-dom": "https://aistudiocdn.com/react-dom@^19.2.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.25.0",
+    "@google-cloud/storage": "https://aistudiocdn.com/@google-cloud/storage@^7.17.2",
+    "nodemailer": "https://aistudiocdn.com/nodemailer@^7.0.9",
+    "cheerio": "https://aistudiocdn.com/cheerio@^1.1.2",
+    "express": "https://aistudiocdn.com/express@^5.1.0",
+    "axios": "https://aistudiocdn.com/axios@^1.12.2",
+    "cors": "https://aistudiocdn.com/cors@^2.8.5"
+  }
+}
+</script>
+<script src="https://cdn.tailwindcss.com"></script>
+<script>
+  tailwind.config = {
+    theme: {
+      extend: {
+        colors: {
+          'brand-primary': '#4a4a4a',
+          'brand-secondary': '#f0e9e1',
+          'brand-accent': '#B59677',
+        },
+        fontFamily: {
+          sans: ['"Cormorant Garamond"', 'serif'],
+          serif: ['"Playfair Display"', 'serif'],
+        }
+      }
+    }
+  }
+</script>
+  </head>
+  <body class="bg-brand-secondary">
+    <div id="root"></div>
+    <div id="modal-root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>
